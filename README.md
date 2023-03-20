@@ -22,6 +22,7 @@ medical consultation with this function.
 
 ![image](https://user-images.githubusercontent.com/127919674/226441058-fb7840b4-2d3d-4d84-8f60-61b9244eb426.png)
 
+
 After the online consultation, the patient will receive the following files: E-Medical Certificate
 and E-Prescription. An e-Medical certificate that allows the patient to view the doctor's
 information as well as the doctor's findings or diagnoses. It also contains an E-Prescription
