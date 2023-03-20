@@ -1,14 +1,10 @@
 # Checkapp
 
-
-
-Telemedicine app with Online Pharmacy
-
 Checkapp Team Members:
 Kim Bermdez - System Analyst,
 Rey Gadgude - Documentarian,
 Lady Mae Rodrigo - Documentarian, Junior Dev,
-Ivan Mharc Maglangit - Senior Programmer.
+Ivan Mharc Maglangit - Senior Dev.
 
 CheckApp is a telemedicine app with a core function of online consultation and online
 medication. The slogan "Healthcare at your convenience" encourages patients to make their
